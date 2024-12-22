@@ -1,5 +1,7 @@
 # Multiple server with infinite capacity - (M/M/c):(oo/FIFO)
 
+# exp:05
+
 # Date : 07.12.2024
 
 # Name:SATHISH.B
